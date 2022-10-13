@@ -1,0 +1,9 @@
+.footer__autor {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  padding: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+}
