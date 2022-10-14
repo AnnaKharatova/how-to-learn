@@ -1,4 +1,4 @@
-.link_transition:hover {
+.link__transition:hover {
   opacity: 0.5;
   transition: 1s ease;
 }
